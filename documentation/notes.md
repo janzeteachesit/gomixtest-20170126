@@ -8,7 +8,7 @@
 *  Toggle sidebar: CTRL-I
 *  Close dialog: ESC
 
-## Advanced
+### Advanced
 
 *  Export to Github: CTRL-Shift-E
 
